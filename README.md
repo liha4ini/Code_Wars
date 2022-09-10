@@ -1,1 +1,1 @@
-Solving problems from codewars site
+Solving tasks from codewars site
